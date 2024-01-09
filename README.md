@@ -10,5 +10,3 @@ I have also addded a screenshot ![screenshot](<Assets/Screenshot 2024-01-08 at 1
 Deployed Application link [] https://ereyna21.github.io/Work-Day-Scheduler/
 
 Repository link https://github.com/Ereyna21/Work-Day-Scheduler
-
-![Alt text](<Assets/Screenshot 2024-01-08 at 10.55.08 PM.png>)
